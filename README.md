@@ -1,1 +1,1 @@
-# Dockerized environment with Laravel 9, Vue 3 and Mysql 
+# Dockerized environment with Laravel 11, Vue 3 and Mysql 
